@@ -1,0 +1,4 @@
+ x int,y float,z string
+ 1,3.14,'hello'
+ -5,8123.0,'bye'
+ 52,.009,'cs61b'
